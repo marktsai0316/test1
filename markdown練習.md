@@ -16,6 +16,7 @@ with an @ symbol: Hey @kneath
 - [ ] This is an incomplete item
 
 And, of course emoji! :sparkles: :camel: :boom:
+[`http://www.emoji-cheat-sheet.com/`](http://www.emoji-cheat-sheet.com/)
 
 First Header | Second Header
 ------------ | -------------
