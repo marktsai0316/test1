@@ -4,6 +4,7 @@ with an @ symbol: Hey @kneath
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
+And, of course emoji! :sparkles: :camel: :boom:
 
 #h1
 ##h2
