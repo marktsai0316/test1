@@ -1,6 +1,10 @@
 with an @ symbol: Hey @kneath
 
 
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+
 #h1
 ##h2
 ######h6
